@@ -1,0 +1,5 @@
+{
+    "limitedAgent.moveForward|block": "エージェントを前に$blocksブロック移動させる",
+    "limitedAgent.moveOne|block": "エージェントを$directionに１ブロック移動させる",
+    "limitedAgent.placeForward|block": "エージェントに前へ置かせる"
+}

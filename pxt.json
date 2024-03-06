@@ -1,0 +1,20 @@
+{
+    "name": "makecode-minecraft-limited-agent",
+    "version": "0.0.1",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "limitedAgent.ts",
+        "_locales/ja/makecode-minecraft-limited-agent-strings.json"
+    ],
+    "targetVersions": {
+        "target": "1.7.21",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
